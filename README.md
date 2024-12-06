@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Aarin Zacharia</h2>
 
 ###
 
